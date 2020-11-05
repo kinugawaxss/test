@@ -1,1 +1,1 @@
-eval(location.hash.slice(1));
+eval(location.hash.slice(1));;
